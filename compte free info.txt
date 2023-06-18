@@ -1,0 +1,25 @@
+-----Message d'origine-----
+De: R-LEVEQUE@dassault-data-services.fr
+A: rleveque@ifrance.com
+Date: 17/03/03
+Objet: Mon compte FREE
+
+login:                  vince.leveque
+password:               9y5yz9mv
+
+email:                  vince.leveque@free.fr ( et aussi 
+vince.leveque@online.fr sur la meme boite)
+
+serveur pop3:           pop.free.fr
+                        smtp.free.fr
+                        news.free.fr
+proxy http/ftp          proxy.free.fr (port 3128)
+
+DNS primaire            212.27.32.5
+DNS sec         213.228.0.168
+Domaine         free.fr
+
+No Tel                  0860922000
+
+FTP                     ftpperso.free.fr
+

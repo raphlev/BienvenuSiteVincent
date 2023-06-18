@@ -1,0 +1,148 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0030)http://bonnelworld.tripod.com/ -->
+<HTML><HEAD><TITLE>Page de Celine et Herve</TITLE>
+<SCRIPT
+language=JavaScript>
+<!--
+function open () {return true;}
+//-->
+</SCRIPT>
+
+-----Message d'origine-----
+De: "Celine & Herve Bonnel" <celine-herve@freezone.co.uk>
+A: "Raphael Leveque" <rleveque@ifrance.com>
+Date: 19/03/03
+Objet: Loupes de peu!
+
+Salut Raphael!
+
+Super ton site avec Vincent... et j'ai enfin vu la maman. Vous etes
+mignons
+tout plein tous les 3!
+En fait j'ai quitte BLD le 14 tot le matin, donc nous n'aurions pas pu
+nous
+voir de toute manniere.
+La prochaine fois j'espere!
+
+Dis, Herve me dit qu'il y a moyen de suprimer les pubs qui s'affichent
+automatiquement a chaque fois qu'on clique sur un lien de ta page
+internet.
+Apparemment si tu insert:
+
+<SCRIPT LANGUAGE="JavaScript">
+<!--
+function open () {return true;}
+//-->
+</SCRIPT>
+
+juste en dessous du tag:
+
+
+<head>
+
+en tout debut de chacune de tes pages / sous-pages, le probleme sera
+regle!
+
+C'est ce qu'Herve a fait pour toutes nos pages de notre site, regarde le
+fichier source si tu veux:
+Website: http://clix.to/bonnel
+
+Profite bien de ton fils, il va vite grandir!
+
+A +,
+
+-------------------------------------------------------------
+Herve & Celine BONNEL
+2 Shoesmiths Court,  Merchants Place,
+Reading, Berkshire, RG11AS   -  UK
+Tel/ Fax. +441189573761
+Mobile Celine. +447952546293
+Mobile Herve.  +447952546295
+E-mail: celine-herve@freezone.co.uk
+Website: http://clix.to/bonnel
+-------------------------------------------------------------
+----- Original Message -----
+From: "Raphael Leveque" <rleveque@ifrance.com>
+To: "Celine & Herve Bonnel" <celine-herve@freezone.co.uk>
+Sent: Tuesday, March 04, 2003 5:10 PM
+Subject: Rep:NOUVELLE ADRESSE EN GB !! LE RETOUR... Celine & Herve
+
+
+Hello,
+
+Nous on va aussi a Bar LE Duc le 15 et 16 Mars .. Peut etre quil y a
+moyen de se voir ! Quoique on va etre tres occupé !!
+
+En attendant , voici le site de notre petit Vincent !
+http://www.raphlev.freesurf.fr/
+
+Raphael
+
+-----Message d'origine-----
+De: "Celine & Herve Bonnel" <celine-herve@freezone.co.uk>
+A: <"Undisclosed-Recipient:;"@smtp.safariconnect.co.uk>
+Date: 11/02/03
+Objet: NOUVELLE ADRESSE EN GB !! LE RETOUR... Celine & Herve
+
+Bonjour a tous,
+
+Comment 8 mois peuvent-ils passer si vite?
+Et bien oui, le passe si vite, nous voici deja de retour en Europe, a
+Reading a environ 100km a l'ouest de Londres pour etre plus precis.
+
+Trouvez toutes nos nouvelles coordonnees ci-dessous dans la signature de
+ce message, notre email lui n'a pas change.
+
+Nous avons emmenage dans un petit mais tres confortable appartement au
+centre de Reading, tres bien situe car nous n'avons pas voiture. A 2 min
+du supermarche, 2 minutes de la gare et de tous les magasins.
+Bon d'accord, il n'y a plus la piscine ni les palmiers, mais bon avec la
+temperature qu'il fait en Angleterre, ca ne donne pas envie de se
+baigner de toute maniere!! Un peu plus de soleil et de chaleur seraient
+les bienvenus, mais on saura prendre notre mal en patience jusqu'au
+printemps!!
+
+Herve travaille a 10 minutes a pieds de sonbureau chez Lloyd's Register
+MHA et je me suis mise a chercher du travail a nouveau, ici plus
+d'esxcuse pour ne pas travailler!
+
+Je vais quand meme prendre une semaine de vacances en Ecosse en fevrier,
+je suis invitee chez mon frere! J'en profiterai pour revoir toutes mes
+connaissances encore en Ecosse.
+
+En mars, Herve et moi rentrons en France (10 jours pour lui dans le sud
+et j'irai passer 4 jours de plus ensuite a Bar-le-Duc) pour revoir un
+peu tout le monde.
+
+Donc on a hate de vous revoir tous, soit en France en mars, soit en GB,
+a Londres, Reading ou Maidenhead quandvous voulez!n On a des tonnes de
+photos/videos d'Asie a vous montrer!
+
+A tres bientot alors!
+
+-------------------------------------------------------------
+Herve & Celine BONNEL
+2 Shoesmiths Court,  Merchants Place,
+Reading, Berkshire, RG11AS   -  UK
+Tel/ Fax. +441189573761
+Mobile Celine. +447952546293
+Mobile Herve.  +447952546295
+E-mail: celine-herve@freezone.co.uk
+Website: http://clix.to/bonnel
+-------------------------------------------------------------
+
+
+_____________________________________________________________________
+Envie de discuter en "live" avec vos amis ? Télécharger MSN Messenger
+http://www.ifrance.com/_reloc/m la 1ère messagerie instantanée de France
+
+
+
+_____________________________________________________________________
+Envie de discuter en "live" avec vos amis ? Télécharger MSN Messenger
+http://www.ifrance.com/_reloc/m la 1ère messagerie instantanée de France
+
+
+_____________________________________________________________________
+Envie de discuter en "live" avec vos amis ? Télécharger MSN Messenger
+http://www.ifrance.com/_reloc/m la 1ère messagerie instantanée de France
